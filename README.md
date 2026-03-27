@@ -4,7 +4,11 @@ Repositorio de la clase de Introducción a la Ciencia de Datos 2026/03/26
 # Proyecto de Ciencia de Datos aplicado al Fútbol
 ## Análisis de estadísticas de jugadores y equipos
 ### Descripción
-Este proyecto busca aplicar conceptos fundamentales de la ciencia de datos mediante el análisis de información relacionada con el fútbol. A partir de un conjunto de datos que contiene estadísticas de jugadores y equipos (goles, asistencias, partidos jugados, entre otros), se exploran patrones, tendencias y conclusiones relevantes utilizando herramientas básicas de análisis de datos.
+El presente proyecto tiene como objetivo aplicar conceptos fundamentales de la ciencia de datos mediante el análisis de información relacionada con el fútbol. A partir de un conjunto de datos que contiene estadísticas de jugadores y/o equipos (como goles, asistencias, partidos jugados, entre otros), se busca explorar patrones, identificar tendencias y extraer conclusiones relevantes a través del uso de herramientas básicas de análisis de datos.
+
+Se busca enfocar en el desarrollo de habilidades esenciales como la limpieza de datos, el análisis exploratorio (EDA) y la visualización de información, utilizando lenguajes y librerías como Python, Pandas y Matplotlib. Además, se pretende interpretar los resultados obtenidos de manera clara y comprensible, facilitando la toma de decisiones basada en datos.
+
+Este está orientado a un nivel introductorio, por lo que prioriza la comprensión de los procesos sobre la complejidad técnica, permitiendo evidenciar cómo la ciencia de datos puede aplicarse en contextos reales y de interés general, como el deporte.
 
 #### Objetivos principales
 - Limpieza de datos
@@ -33,12 +37,12 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Arsenal_vs_Real_Madrid-bigger-view.jpg" alt="Cancha de fútbol" width="1000"/>
 
-Imagen centrada  
+
 <p align="center">
     <img src="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2025/10/20/68f65c7809596.r_d.423-272-10872.jpeg" alt="Entrenamiento de equipo" width="500"/>
 </p>
 
-Varias imágenes en fila  
+
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Soccer_ball.svg" width="200"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Cristiano_Ronaldo_celebrating.jpg" width="200"/>
