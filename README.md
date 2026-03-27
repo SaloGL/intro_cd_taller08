@@ -48,11 +48,15 @@ Varias imágenes en fila
 
 ---
 
+Tenemos unos datos recolectados de jugadores de la premier league
 
-Python  
+### Tabla Visualización
+
+
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("estadisticas_futbol.csv")
+df = pd.read_csv("estadisticas_futbol(in).csv")
 print(df.head())
