@@ -25,27 +25,27 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
 ## Ejemplos visuales
 
 Imagen simple  
-![Carrito](carrito01.jpg)
+![Celebración de gol](i:turn0image31)
 
 Imagen desde URL externa  
-![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
+![Estadio lleno](i:turn0image94)
 
 Imagen con enlace (clickeable)  
-[![Texto alternativo](carrito01.jpg)](https://www.eltiempo.com)
+[![Balón en cancha](i:turn0image63)](https://www.fifa.com)
 
 Imagen con tamaño personalizado  
-<img src="ruta/imagen.png" alt="Visualización de datos" width="400"/>
+<img src="i:turn0image1" alt="Gráfico de estadísticas de fútbol" width="400"/>
 
 Imagen centrada  
 <p align="center">
-    <img src="ruta/imagen.png" alt="Gráfico de goles" width="500"/>
+    <img src="i:turn0image121" alt="Entrenamiento de equipo" width="500"/>
 </p>
 
 Varias imágenes en fila  
 <p align="center">
-    <img src="img1.png" width="200"/>
-    <img src="img2.png" width="200"/>
-    <img src="img3.png" width="200"/>
+    <img src="i:turn0image44" width="200"/>
+    <img src="i:turn0image63" width="200"/>
+    <img src="i:turn0image94" width="200"/>
 </p>
 
 ---
