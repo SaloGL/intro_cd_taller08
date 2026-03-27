@@ -25,13 +25,12 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
 
 ![Celebración de gol](celebracion.jpg)
 
-Imagen desde URL externa  
+  
 ![Estadio lleno](https://objetos.estaticos-marca.com/imagenes/2015/11/03/futbol/champions_league/1446541678_extras_noticia_foton_7_1.jpg)
 
-Imagen con enlace (clickeable)  
-[![Balón en cancha](https://upload.wikimedia.org/wikipedia/commons/d/d3/Soccer_ball.svg)](https://www.fifa.com)
+![Balón]https://objetos.estaticos-marca.com/imagenes/2015/11/03/futbol/champions_league/1446541678_extras_noticia_foton_7_1.jpg)
 
-Imagen con tamaño personalizado  
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Soccer_field_-_empty.jpg" alt="Cancha de fútbol" width="400"/>
 
 Imagen centrada  
