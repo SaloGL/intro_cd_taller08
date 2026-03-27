@@ -50,23 +50,16 @@ Varias imágenes en fila
 
 Tenemos unos datos recolectados de jugadores de la premier league
 
-### Tabla Visualización
+### Tabla Visualización (Rendimiento jugadores)
 
 
-
-
-
-
-
-+-----------------+-------------------+------------+------------------------+-----------------------+------------------+------------------+
-| full_name       | Current Club      | position   | minutes_played_overall | goals_overall         | assists_overall  | shots_total      |
-+-----------------+-------------------+------------+------------------------+-----------------------+------------------+------------------+
-| Aaron Cresswell | West Ham United   | Defender   | 1589                   | 0                     | 3                | 9                |
-| Aaron Lennon    | Burnley           | Midfielder | 1217                   | 2                     | 0                | 14               |
-| Aaron Mooy      | Huddersfield Town | Midfielder | 2327                   | 3                     | 1                | 46               |
-| Aaron Ramsey    | Arsenal           | Midfielder | 1327                   | 4                     | 6                | 36               |
-| Aaron Rowe      | Huddersfield Town | Forward    | 69                     | 0                     | 0                | 0                |
-+-----------------+-------------------+------------+------------------------+-----------------------+------------------+------------------+
+| Nombre          | Club Actual      | Posicion   | Minutos Jugados        | Total Goles   | Total Asist     | Total Tiros |
+|-----------------|------------------|------------|------------------------|---------------|-----------------|-------------|
+| Aaron Cresswell | West Ham United  | Defender   | 1589                   | 0             | 3               | 9           |
+| Aaron Lennon    | Burnley          | Midfielder | 1217                   | 2             | 0               | 14          |
+| Aaron Mooy      | Huddersfield Town| Midfielder | 2327                   | 3             | 1               | 46          |
+| Aaron Ramsey    | Arsenal          | Midfielder | 1327                   | 4             | 6               | 36          |
+| Aaron Rowe      | Huddersfield Town| Forward    | 69                     | 0             | 0               | 0           |
 
 
 
