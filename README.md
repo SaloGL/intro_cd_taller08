@@ -26,16 +26,16 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
 ![Celebración de gol](celebracion.jpg)
 
   
-![Estadio lleno](https://objetos.estaticos-marca.com/imagenes/2015/11/03/futbol/champions_league/1446541678_extras_noticia_foton_7_1.jpg)
+<img src="https://objetos.estaticos-marca.com/imagenes/2015/11/03/futbol/champions_league/1446541678_extras_noticia_foton_7_1.jpg" width="1000"/>
 
-![Balón]https://objetos.estaticos-marca.com/imagenes/2015/11/03/futbol/champions_league/1446541678_extras_noticia_foton_7_1.jpg)
+![Balón](https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/b4f9eb1b-8b33-442f-a843-aa0a14f0939e.avif)
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Soccer_field_-_empty.jpg" alt="Cancha de fútbol" width="400"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Arsenal_vs_Real_Madrid-bigger-view.jpg" alt="Cancha de fútbol" width="1000"/>
 
 Imagen centrada  
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Football_training.jpg" alt="Entrenamiento de equipo" width="500"/>
+    <img src="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2025/10/20/68f65c7809596.r_d.423-272-10872.jpeg" alt="Entrenamiento de equipo" width="500"/>
 </p>
 
 Varias imágenes en fila  
