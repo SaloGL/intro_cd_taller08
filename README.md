@@ -25,7 +25,7 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
 ## Ejemplos visuales
 
 Imagen simple  
-![Celebración de gol](https://upload.wikimedia.org/wikipedia/commons/6/6e/Cristiano_Ronaldo_celebrating.jpg)
+![Celebración de gol](celebracion.jpg)
 
 Imagen desde URL externa  
 ![Estadio lleno](https://upload.wikimedia.org/wikipedia/commons/3/3e/Signal_Iduna_Park_2019.jpg)
