@@ -16,13 +16,11 @@ Este está orientado a un nivel introductorio, por lo que prioriza la comprensi�
 - Visualización de información
 - Interpretación de resultados para la toma de decisiones
 
-##### Tecnologías utilizadas
+##### Tecnologías que pensamos utilizar
 - Python 3.10
 - Pandas
 - Matplotlib
 
-###### Nivel del proyecto
-Introductorio, priorizando la comprensión de procesos sobre la complejidad técnica.
 
 ---
 
